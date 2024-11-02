@@ -1,4 +1,4 @@
-# Funnel Analysis for E-commerce site
+# Funnel Analysis for E-commerce Site
 
 ## Project Overview
 
@@ -35,43 +35,15 @@ It also had additional columns, but they were not used in analysis. If you'd lik
 
 ## Key Findings
 
-<style>
-    .image-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    .image-container img {
-        max-width: 410px; 
-        height: auto;
-        margin-right: 20px;
-    }
-</style>
-
 <div class="image-container">
     <img src="images/countries_table.png" alt="Countries table" />
     <img src="images/countries_funnel.png" alt="Countries funnel" />
 </div>
 
-
 1. **Country-Specific Insights**:
    - **Countries.** United States is number 1 country by events count. India being 2nd and Canada 3rd.
    - **Top Drop-Off Points.** The "Add to cart" stage has the highest drop-off across all countries. The second-largest drop-off occurs after users start checkout but before adding payment information.
    - **Conversion Rates.** Canada has the highest purchase conversion rate, while India shows the lowest.
-
-
-<style>
-    .image-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    .image-container img {
-        max-width: 410px; 
-        height: auto;
-        margin-right: 20px;
-    }
-</style>
 
 <div class="image-container">
     <img src="images/devices_table.png" alt="Devices table" />
