@@ -67,13 +67,13 @@ Based on the analysis, here are some recommendations to improve user conversion 
 ## Possible Analysis Improvements
 
 To further enhance this analysis, future steps could include:
-- Original dataset provides more information.Thus, it would be possible to add additional categories to identify patterns within different operating systems, languages, campaigns, etc.
+- Original dataset provides more information. Thus, it would be possible to add additional categories to identify patterns within different operating systems, languages, campaigns, etc.
 - Conducting a time-based analysis to understand user behavior trends over different periods.
 
 ## How to Use This Repository
 
 1. **"queries"** - SQL queries are available in this folder.
-2. **"images"**: visualizations from Google Sheets are provided as screenshots in this folder.
+2. **"images"** - visualizations from Google Sheets are provided as screenshots in this folder.
 
 ## Contact
 
